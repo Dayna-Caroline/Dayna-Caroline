@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com Full Stack
 - 🌱 Estudo PHP, JAVA, C# e MySql
-- 💬 Visite meu linkedin: 
 - 📫 Contate-me no email: dayna.caroline@unesp.br
 
 <div>
