@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Dayna Caroline 👋
 
 - 🔭 Hoje trabalho com Full Stack
-- 🌱 Estudo PHP, JAVA, C# e MySql
+- 🌱 No momento estudo PHP, JAVA, C# e MySql
 - 📫 Contate-me no email: dayna.caroline@unesp.br
 
 <div>
