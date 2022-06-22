@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Dayna Caroline 👋
 
 - 🔭 Hoje trabalho na Lecom Tecnologia
-- 🌱 No momento estudo JAVA, JavaScript, React e MySql
+- 🌱 No momento estudo JAVA, JavaScript e React
 - 📫 Contate-me no email: dayna.caroline@unesp.br
 
 <div>
